@@ -22,4 +22,6 @@ export default {
       },
     }],
   ],
+  publicPath:'./',
+  outputPath:'./dist'
 }
