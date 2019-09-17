@@ -8,7 +8,7 @@ export default {
       antd: true,
       dva: true,
       dynamicImport: false,
-      title: 'likun123.github.io1',
+      title: 'likun123.github.io',
       dll: false,
       
       routes: {
